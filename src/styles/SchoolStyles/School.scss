@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 70%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    .top{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        width: 80%;
+    }
+    .bottom{
+        font-weight: 600;
+        ul{
+            display: flex;
+            flex-direction: column;
+            line-height: 2em;
+            li{
+                list-style-type: none;
+            }
+        }
+    }
+}
