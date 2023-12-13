@@ -11,7 +11,7 @@ function Nav () {
     return(
         <>
             <div className='nav-container'>
-                <Link id='home' to='/'><h1>david <span className='kname1'>동</span><span className='kname2'>건</span> lim</h1></Link>
+                <Link class='name-button' to='/'><h1>david <span className='kname1'>동</span><span className='kname2'>건</span> lim</h1></Link>
                 <div className='socials-container'>
                     <a><FontAwesomeIcon icon={faEnvelope}  /></a> {/* email */}
                     <a><FontAwesomeIcon icon={faLinkedin}  /></a> {/* linkedin */}

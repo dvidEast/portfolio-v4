@@ -12,7 +12,11 @@ function App() {
 
   return (
     <>
+<<<<<<< HEAD
       <ParticlesBackground />
+=======
+      {/* <ParticlesBackground /> */}
+>>>>>>> 81e6e24 (refactored home)
       <Nav />
       <Routes>
         <Route path='/' element={ <Home /> }></Route>

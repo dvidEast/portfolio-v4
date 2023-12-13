@@ -20,7 +20,7 @@ function School(){
                         <li>CPSC 210: Software Construction (Java)</li>
                         <li>MATH 221: Matrix Algebra</li>
                         <li>DSCI 100: Introduction to Data Science (R)</li>
-                        <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (MATLAB) </li>
+                        <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (PYTHON) </li>
                         <li>MATH 102: Differential Calculus with Applications to Life Sciences (Calculus I)</li>
                         <li>MATH 103: Integral Calculus with Applications to Life Sciences (Calculus II)</li>
                         <li>MATH 200: Multivariable Calculus (Calculus III) </li>

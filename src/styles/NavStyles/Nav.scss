@@ -4,7 +4,7 @@
     position: absolute;
     top: 1rem;
     left: 2rem;
-    #home{
+    .name-button{
         text-decoration: none;
         color: #2F4858;
         h1{
@@ -24,15 +24,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        transition: all 0.5s ease-in-out;
-        a{
-            cursor: pointer;
-            padding-top: 4px;
-            font-size: 20px;
-            opacity: 0.5;
-            :hover{
-                font-size: 22px;
-            }
-        }
+        cursor: pointer;
+        font-size: 20px;
     }
 }

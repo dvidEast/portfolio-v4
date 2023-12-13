@@ -5,6 +5,10 @@ import './styles/index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
+<<<<<<< HEAD
     <App />
+=======
+    <  App />
+>>>>>>> 81e6e24 (refactored home)
   </BrowserRouter>
 )
