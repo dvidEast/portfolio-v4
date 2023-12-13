@@ -1,8 +1,11 @@
-# React + Vite
+# Personal Portfolio For David Lim
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Languages Used
+- React w/ vite
+- CSS w/ SCSS
+- JS/HTML/CSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Encompasses Three Categories
+- home/about
+- projects
+- artwork
