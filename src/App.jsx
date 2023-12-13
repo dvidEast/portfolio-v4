@@ -4,7 +4,6 @@ import School from './pages/School'
 import Projects from './pages/Projects'
 import Art from './pages/Art'
 import Nav from './components/Nav'
-import ParticlesBackground from "./components/Particles"
 
 import './styles/AppStyles/App.css'
 
@@ -12,11 +11,6 @@ function App() {
 
   return (
     <>
-<<<<<<< HEAD
-      <ParticlesBackground />
-=======
-      {/* <ParticlesBackground /> */}
->>>>>>> 81e6e24 (refactored home)
       <Nav />
       <Routes>
         <Route path='/' element={ <Home /> }></Route>
