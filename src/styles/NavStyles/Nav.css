@@ -27,4 +27,7 @@
   justify-content: space-between;
   cursor: pointer;
   font-size: 20px;
+}
+.nav-container .socials-container :hover {
+  opacity: 0.7;
 }/*# sourceMappingURL=Nav.css.map */
