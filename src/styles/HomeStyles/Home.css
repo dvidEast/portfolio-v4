@@ -20,7 +20,7 @@
 .about .resume-link {
   color: #FF385C;
   text-decoration: none;
-  animation: pulsate 1.5s infinite;
+  animation: pulsate 1.7s infinite;
   font-weight: bolder;
 }
 
@@ -75,7 +75,7 @@
   }
   50% {
     transform: scale(2);
-    opacity: 0.5;
+    opacity: 0.3;
   }
   100% {
     transform: scale(1);

@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { Link } from "react-router-dom";
 import '../styles/HomeStyles/Home.css';
+import resume from './DavidLim_Resume.pdf'
 
 function Home() {
     useEffect(() => {
@@ -28,7 +29,7 @@ function Home() {
                 <h1>Hello, I'm David Lim</h1>
                 <p>
                     born and raised in Vancouver, I'm a second year  <Link id='school' to='school'>undergraduate student </Link> 
-                    at the University of British Columbia studyingcomputer science and physics.
+                    at the University of British Columbia studying computer science and physics.
                 </p>
                 <br />
                 <p>
@@ -43,7 +44,10 @@ function Home() {
                     and playing the guitar (or pretty much anything else that involves music).
                 </p>
                 <br />
-                <Link href='../public/DavidLim_Resume.pdf' className='resume-link'> &lt; resume &gt; </Link>
+                <Link to={resume} className="resume-link" target="_blank" rel="noopener noreferrer">
+                    &lt; resume &gt;    
+                </Link>
+
                 <div className="signature"></div>
             </div>
         </div>
