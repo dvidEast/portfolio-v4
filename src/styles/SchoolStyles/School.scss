@@ -26,3 +26,27 @@
         }
     }
 }
+
+@keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes blurIn {
+    from {
+      filter: blur(10px);
+    }
+    to {
+      filter: blur(0);
+    }
+  }
+  
+  .bottom {
+    opacity: 0; /* Initially hide the entire section */
+  }

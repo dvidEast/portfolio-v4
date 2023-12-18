@@ -1,6 +1,29 @@
+import { useEffect } from 'react';
 import '../styles/SchoolStyles/School.css'
 
 function School(){
+    useEffect(() => {
+        const runAnimation = () => {
+            const aboutSection = document.querySelector('.bottom');
+        
+            const lines = aboutSection.querySelectorAll('li');
+        
+            lines.forEach((line, index) => {
+                line.style.animation = `fadeInUp 0.5s ${index * 0.3}s both, blurIn 1s ${index * 0.3}s both`;
+            });
+        
+            // Show the section after applying animations
+            aboutSection.style.opacity = 1;
+        };
+    
+        // Ensure the DOM is fully loaded before running the animation
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', runAnimation);
+        } else {
+            runAnimation();
+        }
+    }, []);
+
     return (
         <>
             <div className='container'>
