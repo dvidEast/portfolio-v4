@@ -1,7 +1,8 @@
 .about {
+  max-height: 80vh;
   display: block;
   margin: 0 auto;
-  max-width: 800px;
+  width: 60%;
   z-index: inherit;
   position: absolute;
   top: 50%;
@@ -32,8 +33,9 @@
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0.2;
-  position: relative;
+  position: absolute;
+  top: 0;
   left: 60%;
-  height: 800px;
+  height: 100%;
   width: 500px;
 }/*# sourceMappingURL=Home.css.map */

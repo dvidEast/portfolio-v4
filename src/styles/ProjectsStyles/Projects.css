@@ -1,1 +1,19 @@
-/*# sourceMappingURL=Projects.css.map */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+.bottom {
+  max-height: 80vh;
+}
+.bottom ul {
+  display: flex;
+}
+.bottom ul .project-title {
+  font-weight: bolder;
+}
+.bottom ul a {
+  color: #FF385C;
+}/*# sourceMappingURL=Projects.css.map */

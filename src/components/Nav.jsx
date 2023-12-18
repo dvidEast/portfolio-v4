@@ -13,11 +13,11 @@ function Nav () {
             <div className='nav-container'>
                 <Link className='name-button' to='/'><h1>david <span className='kname1'>동</span><span className='kname2'>건</span> lim</h1></Link>
                 <div className='socials-container'>
-                    <a><FontAwesomeIcon icon={faEnvelope}  /></a> {/* email */}
-                    <a><FontAwesomeIcon icon={faLinkedin}  /></a> {/* linkedin */}
-                    <a><FontAwesomeIcon icon={faInstagram}  /></a> {/* instagram */}
-                    <a><FontAwesomeIcon icon={faFacebook}  /></a> {/* facebook */}
-                    <a><FontAwesomeIcon icon={faGithub}  /></a> {/* github */}
+                    <a href="mailto:https://www.daviddlim11@gmail.com"> <FontAwesomeIcon icon={faEnvelope} /></a>
+                    <a href="https://www.linkedin.com/in/daviddlim"><FontAwesomeIcon icon={faLinkedin}  /></a>
+                    <a href="https://www.instagram.com/dvidlim/"><FontAwesomeIcon icon={faInstagram}  /></a>
+                    <a href="https://www.facebook.com/profile.php?id=100012278444105"><FontAwesomeIcon icon={faFacebook}  /></a>
+                    <a href="https://github.com/dvidEast"><FontAwesomeIcon icon={faGithub}  /></a>
                 </div>
             </div>
         </>

@@ -1,15 +1,14 @@
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  position: absolute;
+  justify-content: center;
+  margin: 0 auto;
+  padding-top: 5vh;
   width: 70%;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
 .container .top {
+  max-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
