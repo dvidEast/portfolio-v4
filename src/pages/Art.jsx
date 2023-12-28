@@ -6,9 +6,10 @@ import image1 from "./artwork/renew.jpg";
 import image2 from "./artwork/eye.jpg";
 import image3 from "./artwork/thoughts.jpg";
 import image4 from "./artwork/portrait.png";
+import image5 from "./artwork/neural_network.jpg";
 
 const slides = [
-    image1, image2, image3, image4
+    image1, image2, image3, image4, image5
 ];
 
 const Art = () => {
