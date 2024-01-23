@@ -35,13 +35,20 @@ function Projects(){
                 <br></br>
                 <div className="bottom">
                     <ul>
-                        <li className="project-title">statside (new version in development) w/ typscript, html, css --&gt; <a href='https://github.com/dvidEast/statside'>github</a></li>
-                        <li className="project-summary">- web app implementing data analyses for hockey players in the NHL</li>
-                        <li className="project-summary">- fetched the NHL API endpoint to access statistical stats for every active NHL player in an NHL roster</li>
-                        <li className="project-summary">- wrangling the data to create insightful (and predictive) visualizations</li>
-                        <li className="project-summary">- ideated, designed, and implemented a user interface</li>
+                        <li className="project-title">PandAI w/ ReactJS, ExpressJS, NodeJS, Tensorflow --&gt; <a href='https://github.com/dvidEast/nwHacks-Panda'>github</a> <a href='https://devpost.com/software/pandai'>devpost</a></li>
+                        <li className="project-summary">- PandAI serves as your dedicated study buddy, providing motivation when you deviate from your tasks using CV</li>
+                        <li className="project-summary">- Used Tensor Flow and streamed user's webcam to detect confidence score of hands being used on phone</li>
+                        <li className="project-summary">- Continuously evaluate data from video feed to detect phone usage and send a spam message through the Twillio API</li>
                     </ul>
-                    
+
+                    <br></br>
+
+                    <ul>
+                        <li className="project-title">sauce the aux w/ java --&gt; <a href='https://github.com/dvidEast/SauceTheAux'>github</a></li>
+                        <li className="project-summary">- developed an app that allows users to create a playlist through an  integrated genre system, allowing you to customize how you want your next playlist to sound</li>
+                        <li className="project-summary">-  utilized OOP techniques including abstraction, polymorphism, encapsulation and inheritance along with exhaustive testing</li>
+                    </ul>
+
                     <br></br>
 
                     <ul>
@@ -56,14 +63,6 @@ function Projects(){
                         <li className="project-title">clueless (Biztech HelloHacks Hackathon) w/ java, figma --&gt; <a href='https://github.com/dvidEast/clueless-hellohacks'>github</a> <a href='https://www.figma.com/file/HxdLtIxMJoTRCpONHCNDqi/Clueless?type=design&node-id=6%3A20&mode=design&t=fy0PSA28aV7EfagL-1'>figma</a></li>
                         <li className="project-summary">- competed in a beginner hackathon with an emphasis on the bridge between business and technology</li>
                         <li className="project-summary">- mentored by industry professionals from the likes AWS, creating a business proposal for a mobile app using Figma and Java</li>
-                    </ul>
-
-                    <br></br>
-
-                    <ul>
-                        <li className="project-title">sauce the aux w/ java --&gt; <a href='https://github.com/dvidEast/SauceTheAux'>github</a></li>
-                        <li className="project-summary">- developed an app that allows users to create a playlist through an  integrated genre system, allowing you to customize how you want your next playlist to sound</li>
-                        <li className="project-summary">-  utilized OOP techniques including abstraction, polymorphism, encapsulation and inheritance along with exhaustive testing</li>
                     </ul>
                 </div>
             </div>
