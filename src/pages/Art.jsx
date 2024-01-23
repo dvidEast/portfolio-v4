@@ -4,12 +4,14 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import image1 from "./artwork/renew.jpg";
 import image2 from "./artwork/eye.jpg";
-import image3 from "./artwork/thoughts.jpg";
-import image4 from "./artwork/portrait.png";
-import image5 from "./artwork/neural_network.jpg";
+import image3 from "./artwork/box.jpg";
+import image4 from "./artwork/beard.jpg";
+import image5 from "./artwork/thoughts.jpg";
+import image6 from "./artwork/portrait.png";
+// import image7 from "./artwork/neural_network.jpg";
 
 const slides = [
-    image1, image2, image3, image4, image5
+    image1, image2, image3, image4, image5, image6
 ];
 
 const Art = () => {
