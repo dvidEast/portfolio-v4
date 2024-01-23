@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { Link } from "react-router-dom";
 import '../styles/HomeStyles/Home.css';
-import resume from './DavidLim_Resume.pdf'
+import resume from './davidlim-resume-jan24.pdf'
 
 function Home() {
     useEffect(() => {
