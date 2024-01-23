@@ -5,7 +5,7 @@
 - CSS w/ SCSS
 - JS/HTML/CSS
 
-### Encompasses Three Categories
+### Built Around 3 Pages
 - home/about
 - projects
 - artwork
