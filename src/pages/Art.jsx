@@ -11,7 +11,7 @@ import image6 from "./artwork/portrait.png";
 // import image7 from "./artwork/neural_network.jpg";
 
 const slides = [
-    image1, image2, image3, image4, image5, image6
+    image4, image1, image3, image2, image5, image6
 ];
 
 const Art = () => {
