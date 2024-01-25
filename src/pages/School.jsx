@@ -48,13 +48,13 @@ function School(){
                     <p>relevant compeleted course work ---></p>
                     <br></br>
                     <ul>
+                        <li>CPSC 210: Software Construction (Java)</li>
                         <li>CPSC 110: Systematic Program Design (DrRacket, Recursion)</li>
                         <li>CPSC 121: Models of Computation (Logic)</li>
-                        <li>CPSC 210: Software Construction (Java)</li>
                         <li>MATH 221: Matrix Algebra</li>
                         <li>MATH 200: Multivariable Calculus (Calculus III) </li>
                         <li>DSCI 100: Introduction to Data Science (R)</li>
-                        <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (PYTHON) </li>
+                        <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (Python) </li>
                     </ul>
                     <br></br>
                     <br></br>
