@@ -44,6 +44,7 @@ function School(){
                         <li>MATH 220: Mathematical Proofs</li>
                     </ul>
                     <br></br>
+                    <br></br>
                     <p>relevant compeleted course work ---></p>
                     <br></br>
                     <ul>
@@ -55,6 +56,7 @@ function School(){
                         <li>DSCI 100: Introduction to Data Science (R)</li>
                         <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (PYTHON) </li>
                     </ul>
+                    <br></br>
                     <br></br>
                     <p>some other courses I enjoyed :) ---></p>
                     <br></br>
