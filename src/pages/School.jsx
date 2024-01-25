@@ -35,7 +35,7 @@ function School(){
                 <br></br> 
                 <br></br>
                 <div className='bottom'>
-                    <p>course work ongoing ---></p>
+                    <p>relevant ongoing course work ---></p>
                     <br></br>
                     <ul>
                         <li>CPSC 221: Data Structures and Algorithms (C++)</li>
@@ -44,18 +44,25 @@ function School(){
                         <li>MATH 220: Mathematical Proofs</li>
                     </ul>
                     <br></br>
-                    <p>course work completed ---></p>
+                    <p>relevant compeleted course work ---></p>
                     <br></br>
                     <ul>
                         <li>CPSC 110: Systematic Program Design (DrRacket, Recursion)</li>
                         <li>CPSC 121: Models of Computation (Logic)</li>
                         <li>CPSC 210: Software Construction (Java)</li>
                         <li>MATH 221: Matrix Algebra</li>
+                        <li>MATH 200: Multivariable Calculus (Calculus III) </li>
                         <li>DSCI 100: Introduction to Data Science (R)</li>
                         <li>EOSC 211: Computer Methods in Earth, Ocean and Atmospheric Sciences (PYTHON) </li>
-                        <li>MATH 200: Multivariable Calculus (Calculus III) </li>
                     </ul>
                     <br></br>
+                    <p>some other courses I enjoyed :) ---></p>
+                    <br></br>
+                    <ul>
+                        <li>DES 200: Design Thinking (Architecture and Urban Design)</li>
+                        <li>MUSC 103: Music Theory</li>
+                        <li>CRWR 230: Writing for Comedic Forms</li>
+                    </ul>
                 </div>
             </div>
         </>
