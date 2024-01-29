@@ -11,4 +11,5 @@ I wanted to keep this version quite simple, building it around one paragraph in 
 ### Languages/Libraries Used
 - React w/ vite
 - CSS w/ SCSS
-- JS/HTML/CSS
+- JS
+- HTML/CSS
