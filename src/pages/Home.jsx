@@ -35,8 +35,7 @@ function Home() {
                 <p>
                     working towards a career in software engineering and data science, I focus on developing 
                     <Link id='projects' to='projects'> projects </Link>
-                    to be practical (and useful) with an intent on developing industry level skills, along with web applications where 
-                    I let my artistic background drive my code. 
+                    to be practical (and useful) including a variety of web applications where I let creativity drive my code. 
                 </p>
                 <br />
                 <p>
