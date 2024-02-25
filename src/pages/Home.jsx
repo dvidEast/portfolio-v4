@@ -47,7 +47,7 @@ function Home() {
                     &lt; resume &gt;    
                 </Link>
 
-                <div className="signature"></div>
+                {/* <div className="signature"></div> */}
             </div>
         </div>
     )
